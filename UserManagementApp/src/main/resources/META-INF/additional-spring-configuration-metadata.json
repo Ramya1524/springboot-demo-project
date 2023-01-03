@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "app.jwtexpiry-inmilliseconds",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwtexpiry-inmilliseconds'"
+  },
+  {
+    "name": "app.jwt-secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt-secretKey'"
+  },
+  {
+    "name": "app.jwt-secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt-secretKey'"
+  },
+  {
+    "name": "app.jwt-secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt-secretKey'"
+  },
+  {
+    "name": "app.jwt-secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt-secretKey'"
+  },
+  {
+    "name": "app.jwt-secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt-secretKey'"
+  },
+  {
+    "name": "app.jwt-secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'app.jwt-secretKey'"
+  }
+]}
